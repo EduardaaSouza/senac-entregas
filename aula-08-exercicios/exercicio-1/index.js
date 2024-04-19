@@ -14,4 +14,3 @@ console.log(idade>idademelhoramiga)
 console.log ("diferenca de idade", idade-idademelhoramiga)
 
 //console.log no final de tudo 
-//
